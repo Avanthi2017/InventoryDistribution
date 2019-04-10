@@ -1,4 +1,4 @@
-
+Code changes can be tested by running InventoryAllocatorTest.java using Junit
 
 ### Problem
 
